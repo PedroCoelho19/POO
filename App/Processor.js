@@ -11,4 +11,4 @@ class Processor {
   }
 }
 
-module.exports = Processor;
+ module.exports = Processor;
